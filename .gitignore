@@ -1,0 +1,7 @@
+node_modules
+.vscode
+output
+package-lock.json
+yarn.lock
+www/**/*.js
+src/**/*.js
